@@ -13,8 +13,11 @@ https://github.com/424000532-png/dart-week7-lab/blob/42b7c91344a04cce4e263a2cb7e
 Copy a file's code into https://dartpad.dev and click Run.
 
 Part 7 – Answers
+
 a. Ana received the voucher because she is a student and her subtotal (PHP 296.75) is at least PHP 250.
+
 b. Delivery was not free because Ana was not picking up and her amount after the voucher was PHP 281.25, below PHP 300.
+
 c. We use ~/ because reward points count only complete PHP 50 amounts.
 If isStudent is false: voucher = Not eligible; delivery = PHP 29.50; total = PHP 326.25; points = 6.
 
