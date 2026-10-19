@@ -3,8 +3,9 @@ Name: Palinsad, Naomi Myriam Grace G.
 Section: 3.7-BSIT
 ## Files
 [- campus_brew_receipt.dart 
-](https://github.com/424000532-png/dart-week7-lab/blob/5291f3858f78326aa25e560f242b578fb689456d/campus_brew_receipt.dart)- print_shop.dart – Campus Print Shop bill (Part 10)
-
+](https://github.com/424000532-png/dart-week7-lab/blob/5291f3858f78326aa25e560f242b578fb689456d/campus_brew_receipt.dart)- 
+print_shop.dart 
+https://github.com/424000532-png/dart-week7-lab/blob/42b7c91344a04cce4e263a2cb7e7747c52728900/print_shop.dart
 ## How to run
 Copy a file's code into https://dartpad.dev and click Run.
 
